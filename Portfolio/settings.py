@@ -28,9 +28,9 @@ WEB3FORMS_ACCESS_KEY = os.getenv('WEB3FORMS_ACCESS_KEY')
 SECRET_KEY = 'django-insecure-y6z)-po(%_xiely5v*yr()i8lc#h1f8iyy&#5ef9tt9_t)mngc'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['portfolio-production-fe86.up.railway.app', 'localhost', '127.0.0.1']
 
 
 # Application definition
