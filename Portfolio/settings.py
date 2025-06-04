@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-y6z)-po(%_xiely5v*yr()i8lc#h1f8iyy&#5ef9tt9_t)mngc
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['portfolio-production-fe86.up.railway.app', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['portfolio-production-035d.up.railway.app', 'localhost', '127.0.0.1']
 
 
 # Application definition
