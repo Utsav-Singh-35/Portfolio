@@ -112,4 +112,6 @@ form.addEventListener('submit', function(e) {
             result.className = "form-result";
         }, 5000);
     });
-}); 
+});
+
+// Mobile Navigation - Removed 
